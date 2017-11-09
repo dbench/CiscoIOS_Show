@@ -7,6 +7,7 @@
 --  Dustin Bench, 8/25/17
 --  Version 1.1 - Testing GitHub
 --  Version 1.2 - still testing again and again and again and again 1 more time again
+--  Version 2.0 - dropped the code into a function called ios_show()
 """
 
 import sys
